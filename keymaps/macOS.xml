@@ -1,8 +1,10 @@
 <keymap version="1" name="macOS コピー" parent="Mac OS X 10.5+">
   <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="shift f9" />
   </action>
   <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="shift f10" />
   </action>
 </keymap>
