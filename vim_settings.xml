@@ -63,13 +63,16 @@
       <shortcut-conflict owner="vim">
         <text encoding="base64">Y3RybCBwcmVzc2VkIFU=</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="7" enabled="false" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="true" />
