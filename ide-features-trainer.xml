@@ -6,7 +6,7 @@
         <entry key="basic completion" value="PASSED" />
         <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
-        <entry key="codeassistance.localhistory" value="NOT_PASSED" />
+        <entry key="codeassistance.localhistory" value="PASSED" />
         <entry key="codeassistance.parameterinfo" value="NOT_PASSED" />
         <entry key="codeassistance.quickpopups" value="NOT_PASSED" />
         <entry key="collapse" value="PASSED" />
@@ -15,8 +15,8 @@
         <entry key="context.actions" value="PASSED" />
         <entry key="declaration and usages" value="NOT_PASSED" />
         <entry key="duplicate" value="PASSED" />
-        <entry key="extract method" value="NOT_PASSED" />
-        <entry key="extract variable" value="NOT_PASSED" />
+        <entry key="extract method" value="PASSED" />
+        <entry key="extract variable" value="PASSED" />
         <entry key="file structure" value="NOT_PASSED" />
         <entry key="find in files" value="NOT_PASSED" />
         <entry key="git.annotate" value="NOT_PASSED" />
@@ -34,8 +34,8 @@
         <entry key="python.run.configuration" value="NOT_PASSED" />
         <entry key="recent files and locations" value="NOT_PASSED" />
         <entry key="refactoring menu" value="PASSED" />
-        <entry key="refactoring.in.place" value="NOT_PASSED" />
-        <entry key="refactoring.quick.fix" value="NOT_PASSED" />
+        <entry key="refactoring.in.place" value="PASSED" />
+        <entry key="refactoring.quick.fix" value="PASSED" />
         <entry key="rename" value="PASSED" />
         <entry key="search everywhere" value="NOT_PASSED" />
         <entry key="select" value="PASSED" />
