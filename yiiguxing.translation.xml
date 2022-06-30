@@ -1,0 +1,25 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="What is your name?" />
+      <item value="len" />
+      <item value="action" />
+      <item value="acti" />
+      <item value="actio" />
+      <item value="actioion" />
+      <item value="trans" />
+      <item value="tran" />
+      <item value="print" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="6" />
+        <entry key="JAPANESE" value="7" />
+        <entry key="SLOVAK" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1656568390524" />
+  </component>
+</application>
