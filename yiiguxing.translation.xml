@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TODO-5: - If the letter is not in the chosen_word, print out the letter and let them know it's not in the word." />
+      <item value="TODO-4: - If the user has entered a letter they've already guessed, print the letter and let them know." />
+      <item value="TODO-3: - Import the logo from hangman_art.py and print it at the start of the game." />
+      <item value="TODO-2: - Import the stages from hangman_art.py and make this error go away." />
+      <item value="TODO-1: - Update the word list to use the 'word_list' from hangman_words.py" />
       <item value="TODO-2: - If guess is not a letter in the chosen_word," />
       <item value="Then reduce 'lives' by 1." />
       <item value="If lives goes down to 0 then the game should stop and it should print &quot;You lose.&quot;" />
@@ -32,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="26" />
-        <entry key="JAPANESE" value="25" />
+        <entry key="ENGLISH" value="31" />
+        <entry key="JAPANESE" value="30" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
