@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="367" />
+    <option name="newTranslationDialogY" value="487" />
     <histories>
+      <item value="Write your code above this line " />
+      <item value="above" />
+      <item value="Define a function called paint_calc() so that the code below works." />
+      <item value="面積" />
+      <item value="面積&#9;" />
+      <item value=" Don't change the code below " />
+      <item value="Review: Create a function called greet(). Write 3 print statements inside the function. Call the greet() function and run your code." />
       <item value="TODO-5: - If the letter is not in the chosen_word, print out the letter and let them know it's not in the word." />
       <item value="TODO-4: - If the user has entered a letter they've already guessed, print the letter and let them know." />
       <item value="TODO-3: - Import the logo from hangman_art.py and print it at the start of the game." />
@@ -37,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="31" />
-        <entry key="JAPANESE" value="30" />
+        <entry key="ENGLISH" value="36" />
+        <entry key="JAPANESE" value="35" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
