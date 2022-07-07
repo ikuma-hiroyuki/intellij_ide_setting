@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="487" />
     <histories>
+      <item value="Can you fix the code to keep the numbersymbolspace when the text is encodeddecoded? e.g. start_text = &quot;meet me at 3&quot; end_text = &quot;•••• •• •• 3&quot;" />
+      <item value="TODO-3: What happens if the user enters a numbersymbolspace?" />
+      <item value="Try running the program and entering a shift number of 45. Add some code so that the program continues to work even if the user enters a shift number greater than 26. Hint: Think about how you can use the modulus (%)." />
+      <item value="TODO-2: What if the user enters a shift that is greater than the number of letters in the alphabet?" />
+      <item value="TODO-1: Import and print the logo from art.py when the program starts." />
       <item value="Write your code above this line " />
       <item value="above" />
       <item value="Define a function called paint_calc() so that the code below works." />
@@ -47,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="36" />
-        <entry key="JAPANESE" value="35" />
+        <entry key="ENGLISH" value="42" />
+        <entry key="JAPANESE" value="41" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
