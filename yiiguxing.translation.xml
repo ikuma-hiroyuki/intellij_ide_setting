@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="487" />
     <histories>
+      <item value="TODO-3: Check if the user wanted to encrypt or decrypt the message by checking the 'direction' variable. Then call the correct function based on that 'drection' variable. You should be able to test the code to encrypt AND decrypt a message." />
+      <item value="TODO-1: Create a different function called 'decrypt' that takes the 'text' and 'shift' as inputs." />
       <item value="letter" />
       <item value="todo-2: inside the 'encrypt' function, shift each letter of the 'text' forwards in the alphabet by the shift amount and print the encrypted text." />
       <item value="TODO-3: Call the encrypt function and pass in the user inputs. You should be able to test the code and encrypt a message." />
@@ -51,8 +53,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="41" />
-        <entry key="JAPANESE" value="40" />
+        <entry key="ENGLISH" value="43" />
+        <entry key="JAPANESE" value="42" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
