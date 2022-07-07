@@ -1,6 +1,5 @@
 <application>
   <component name="AceConfig">
-    <option name="mapToASCII" value="true" />
     <option name="searchWholeFile" value="false" />
     <option name="tagBackgroundRGB" value="-65396" />
   </component>
