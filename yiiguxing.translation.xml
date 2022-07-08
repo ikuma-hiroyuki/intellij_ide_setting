@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="487" />
     <histories>
+      <item value="TODO: Write the function that will allow new countries to be added to the travel_log. " />
       <item value="TODO-2: Call the caesar() function, passing over the 'text', 'shift' and 'direction' values." />
       <item value="TODO-3: Check if the user wanted to encrypt or decrypt the message by checking the 'direction' variable. Then call the correct function based on that 'drection' variable. You should be able to test the code to encrypt AND decrypt a message." />
       <item value="TODO-1: Create a different function called 'decrypt' that takes the 'text' and 'shift' as inputs." />
@@ -54,8 +55,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="44" />
-        <entry key="JAPANESE" value="43" />
+        <entry key="ENGLISH" value="45" />
+        <entry key="JAPANESE" value="44" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
