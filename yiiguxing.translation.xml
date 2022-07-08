@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="487" />
     <histories>
+      <item value="e.g." />
+      <item value="e.g. Type 'yes' if you want to go again. Otherwise type 'no'. If they type 'yes' then ask them for the directiontextshift again and call the caesar() function again? Hint: Try creating a while loop that continues to execute the program if the user types 'yes'." />
+      <item value="TODO-4: Can you figure out a way to ask the user if they want to restart the cipher program?" />
       <item value="Can you fix the code to keep the numbersymbolspace when the text is encodeddecoded? e.g. start_text = &quot;meet me at 3&quot; end_text = &quot;•••• •• •• 3&quot;" />
       <item value="TODO-3: What happens if the user enters a numbersymbolspace?" />
       <item value="Try running the program and entering a shift number of 45. Add some code so that the program continues to work even if the user enters a shift number greater than 26. Hint: Think about how you can use the modulus (%)." />
@@ -52,8 +55,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="42" />
-        <entry key="JAPANESE" value="41" />
+        <entry key="ENGLISH" value="44" />
+        <entry key="BULGARIAN" value="1" />
+        <entry key="JAPANESE" value="44" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
