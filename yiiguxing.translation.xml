@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="487" />
     <histories>
+      <item value="割り算" />
+      <item value="わりざ" />
+      <item value="かけ算" />
+      <item value="引き算" />
       <item value="leap" />
       <item value="le" />
       <item value="lep" />
@@ -50,10 +54,6 @@
       <item value="TODO-1 - Randomly choose a word from the word_list and assign it to a variable called chosen_word." />
       <item value="print(" />
       <item value="nt(" />
-      <item value="What is your name?" />
-      <item value="len" />
-      <item value="action" />
-      <item value="acti" />
     </histories>
     <option name="languageScores">
       <map>
