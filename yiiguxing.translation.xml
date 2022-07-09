@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="487" />
     <histories>
+      <item value="leap" />
+      <item value="le" />
+      <item value="lep" />
       <item value="amount" />
       <item value="bid amount" />
       <item value="bids" />
@@ -51,14 +54,11 @@
       <item value="len" />
       <item value="action" />
       <item value="acti" />
-      <item value="actio" />
-      <item value="actioion" />
-      <item value="trans" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="49" />
-        <entry key="JAPANESE" value="48" />
+        <entry key="JAPANESE" value="49" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
