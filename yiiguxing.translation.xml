@@ -4,6 +4,15 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="487" />
     <histories>
+      <item value="Hint 11: The score will need to be rechecked with every new card drawn and the checks in Hint 9 need to be repeated until the game ends." />
+      <item value="Hint 10: If the game has not ended, ask the user if they want to draw another card. If yes, then use the deal_card() function to add another card to the user_cards List. If no, then the game has ended." />
+      <item value="Hint 9: Call calculate_score(). If the computer or the user has a blackjack (0) or if the user's score is over 21, then the game ends." />
+      <item value="Hint 8: Inside calculate_score() check for an 11 (ace). If the score is already over 21, remove the 11 and replace it with a 1. You might need to look up append() and remove()." />
+      <item value="Hint 7: Inside calculate_score() check for a blackjack (a hand with only 2 cards: ace + 10) and return 0 instead of the actual score. 0 will represent a blackjack in our game." />
+      <item value="Hint 6: Create a function called calculate_score() that takes a List of cards as input and returns the score. Look up the sum() function to help you do this." />
+      <item value="Hint 5: Deal the user and computer 2 cards each using deal_card() and append(). user_cards = [] computer_cards = []" />
+      <item value="Hint 4: Create a deal_card() function that uses the List below to return a random card. 11 is the Ace. cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]" />
+      <item value="Difficulty Normal : Use all Hints below to complete the project. Difficulty Hard : Use only Hints 1, 2, 3 to complete the project. Difficulty Extra Hard : Only use Hints 1 &amp; 2 to complete the project. Difficulty Expert : Only use Hint 1 to complete the project." />
       <item value="decode" />
       <item value="caesar" />
       <item value="encrypt" />
@@ -45,26 +54,17 @@
       <item value="TODO-3 - Check if the letter the user guessed (guess) is one of the letters in the chosen_word." />
       <item value="TODO-2 - Ask the user to guess a letter and assign their answer to a variable called guess. Make guess lowercase." />
       <item value="TODO-1 - Randomly choose a word from the word_list and assign it to a variable called chosen_word." />
-      <item value="print(" />
-      <item value="nt(" />
-      <item value="What is your name?" />
-      <item value="len" />
-      <item value="action" />
-      <item value="acti" />
-      <item value="actio" />
-      <item value="actioion" />
-      <item value="trans" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="48" />
+        <entry key="ENGLISH" value="66" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="JAPANESE" value="47" />
+        <entry key="JAPANESE" value="65" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657062113291" />
+    <option name="lastTrimTime" value="1657494114840" />
   </component>
 </application>
