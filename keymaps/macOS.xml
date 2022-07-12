@@ -7,6 +7,13 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="shift space" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="shift f9" />
@@ -17,11 +24,19 @@
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="RestoreDefaultLayout" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
-    <keyboard-shortcut first-keystroke="shift r" />
   </action>
+  <action id="SmartTypeCompletion" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
 </keymap>

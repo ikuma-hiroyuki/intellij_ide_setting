@@ -4,30 +4,28 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="487" />
     <histories>
-      <item value="Hint 14: Ask the user if they want to restart the game. If they answer yes, clear the console and start a new game of blackjack and show the logo from art.py." />
-      <item value="Hint 12: Once the user is done, it's time to let the computer play. The computer should keep drawing cards as long as it has a score less than 17." />
-      <item value="Hint 13: Create a function called compare() and pass in the user_score and computer_score. If the computer and user both have the same score, then it's a draw. If the computer has a blackjack (0), then the user loses. If the user has a blackjack (0), then the user wins. If the user_score is over 21, then the user loses. If the computer_score is over 21, then the computer loses. If none of the above, then the player with the highest score wins." />
-      <item value="Hint 11: The score will need to be rechecked with every new card drawn and the checks in Hint 9 need to be repeated until the game ends." />
-      <item value="Hint 10: If the game has not ended, ask the user if they want to draw another card. If yes, then use the deal_card() function to add another card to the user_cards List. If no, then the game has ended." />
-      <item value="Hint 9: Call calculate_score(). If the computer or the user has a blackjack (0) or if the user's score is over 21, then the game ends." />
-      <item value="Hint 8: Inside calculate_score() check for an 11 (ace). If the score is already over 21, remove the 11 and replace it with a 1. You might need to look up append() and remove()." />
-      <item value="Hint 7: Inside calculate_score() check for a blackjack (a hand with only 2 cards: ace + 10) and return 0 instead of the actual score. 0 will represent a blackjack in our game." />
-      <item value="Hint 6: Create a function called calculate_score() that takes a List of cards as input and returns the score. Look up the sum() function to help you do this." />
-      <item value="Hint 5: Deal the user and computer 2 cards each using deal_card() and append(). user_cards = [] computer_cards = []" />
-      <item value="Hint 4: Create a deal_card() function that uses the List below to return a random card. 11 is the Ace. cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]" />
-      <item value="Difficulty Normal : Use all Hints below to complete the project. Difficulty Hard : Use only Hints 1, 2, 3 to complete the project. Difficulty Extra Hard : Only use Hints 1 &amp; 2 to complete the project. Difficulty Expert : Only use Hint 1 to complete the project." />
-      <item value="decode" />
-      <item value="caesar" />
-      <item value="encrypt" />
-      <item value="wrong" />
-      <item value="e.g." />
-      <item value="e.g. Type 'yes' if you want to go again. Otherwise type 'no'. If they type 'yes' then ask them for the directiontextshift again and call the caesar() function again? Hint: Try creating a while loop that continues to execute the program if the user types 'yes'." />
-      <item value="TODO-4: Can you figure out a way to ask the user if they want to restart the cipher program?" />
-      <item value="Can you fix the code to keep the numbersymbolspace when the text is encodeddecoded? e.g. start_text = &quot;meet me at 3&quot; end_text = &quot;•••• •• •• 3&quot;" />
-      <item value="TODO-3: What happens if the user enters a numbersymbolspace?" />
-      <item value="Try running the program and entering a shift number of 45. Add some code so that the program continues to work even if the user enters a shift number greater than 26. Hint: Think about how you can use the modulus (%)." />
-      <item value="TODO-2: What if the user enters a shift that is greater than the number of letters in the alphabet?" />
-      <item value="TODO-1: Import and print the logo from art.py when the program starts." />
+      <item value="勝負" />
+      <item value="Which year do you want to check?" />
+      <item value="mutate" />
+      <item value="割り算" />
+      <item value="わりざ" />
+      <item value="かけ算" />
+      <item value="引き算" />
+      <item value="leap" />
+      <item value="le" />
+      <item value="lep" />
+      <item value="amount" />
+      <item value="bid amount" />
+      <item value="bids" />
+      <item value="HINT: You can call clear() to clear the output in the console." />
+      <item value="TODO: Write the function that will allow new countries to be added to the travel_log. " />
+      <item value="TODO-2: Call the caesar() function, passing over the 'text', 'shift' and 'direction' values." />
+      <item value="TODO-3: Check if the user wanted to encrypt or decrypt the message by checking the 'direction' variable. Then call the correct function based on that 'drection' variable. You should be able to test the code to encrypt AND decrypt a message." />
+      <item value="TODO-1: Create a different function called 'decrypt' that takes the 'text' and 'shift' as inputs." />
+      <item value="letter" />
+      <item value="todo-2: inside the 'encrypt' function, shift each letter of the 'text' forwards in the alphabet by the shift amount and print the encrypted text." />
+      <item value="TODO-3: Call the encrypt function and pass in the user inputs. You should be able to test the code and encrypt a message." />
+      <item value="TODO-1: Create a function called 'encrypt' that takes the 'text' and 'shift' as inputs." />
       <item value="Write your code above this line " />
       <item value="above" />
       <item value="Define a function called paint_calc() so that the code below works." />
@@ -54,17 +52,18 @@
       <item value="So if the chosen_word was &quot;apple&quot;, display should be [&quot;_&quot;, &quot;_&quot;, &quot;_&quot;, &quot;_&quot;, &quot;_&quot;] with 5 &quot;_&quot; representing each letter to guess." />
       <item value="For each letter in the chosen_word, add a &quot;_&quot; to 'display'." />
       <item value="TODO-1: - Create an empty List called display." />
+      <item value="TODO-3 - Check if the letter the user guessed (guess) is one of the letters in the chosen_word." />
+      <item value="TODO-2 - Ask the user to guess a letter and assign their answer to a variable called guess. Make guess lowercase." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="76" />
-        <entry key="BULGARIAN" value="1" />
-        <entry key="JAPANESE" value="75" />
+        <entry key="ENGLISH" value="51" />
+        <entry key="JAPANESE" value="50" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657494114840" />
+    <option name="lastTrimTime" value="1657568990994" />
   </component>
 </application>
