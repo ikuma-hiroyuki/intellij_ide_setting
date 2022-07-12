@@ -19,7 +19,6 @@
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
-    <keyboard-shortcut first-keystroke="shift r" />
   </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="alt v" />
