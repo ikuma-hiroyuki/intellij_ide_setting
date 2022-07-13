@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="487" />
     <histories>
+      <item value="from" />
       <item value="is resource sufficient" />
       <item value="勝負" />
       <item value="Which year do you want to check?" />
@@ -53,12 +54,11 @@
       <item value="So if the chosen_word was &quot;apple&quot;, display should be [&quot;_&quot;, &quot;_&quot;, &quot;_&quot;, &quot;_&quot;, &quot;_&quot;] with 5 &quot;_&quot; representing each letter to guess." />
       <item value="For each letter in the chosen_word, add a &quot;_&quot; to 'display'." />
       <item value="TODO-1: - Create an empty List called display." />
-      <item value="TODO-3 - Check if the letter the user guessed (guess) is one of the letters in the chosen_word." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="53" />
-        <entry key="JAPANESE" value="52" />
+        <entry key="ENGLISH" value="54" />
+        <entry key="JAPANESE" value="53" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
