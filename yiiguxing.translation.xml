@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="487" />
     <histories>
+      <item value="still" />
       <item value="loudest" />
       <item value="A slug's blood is green." />
       <item value="from" />
@@ -53,12 +54,11 @@
       <item value="TODO-3: - Print 'display' and you should see the guessed letter in the correct position and every other letter replace with &quot;_&quot;." />
       <item value="If the letter at that position matches 'guess' then reveal that letter in the display at that position. e.g. If the user guessed &quot;p&quot; and the chosen word was &quot;apple&quot;, then display should be [&quot;_&quot;, &quot;p&quot;, &quot;p&quot;, &quot;_&quot;, &quot;_&quot;]." />
       <item value="TODO-2: - Loop through each position in the chosen_word;" />
-      <item value="So if the chosen_word was &quot;apple&quot;, display should be [&quot;_&quot;, &quot;_&quot;, &quot;_&quot;, &quot;_&quot;, &quot;_&quot;] with 5 &quot;_&quot; representing each letter to guess." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="56" />
-        <entry key="JAPANESE" value="55" />
+        <entry key="ENGLISH" value="57" />
+        <entry key="JAPANESE" value="56" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
