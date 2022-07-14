@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogHeight" value="443" />
+    <option name="newTranslationDialogWidth" value="816" />
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="487" />
     <histories>
+      <item value="Return or set the turtle's speed. Optional argument: speed – an integer in the range 0..10 or a speedstring (see below) Set the turtle's speed to an integer value in the range 0 .. 10. If no argument is given: return current speed. If input is a number greater than 10 or smaller than 0.5, speed is set to 0. Speedstrings are mapped to speedvalues in the following way: 'fastest' : 0 'fast' : 10 'normal' : 6 'slow' : 3 'slowest' : 1 speeds from 1 to 10 enforce increasingly faster animation of line drawing and turtle turning. Attention: speed = 0 : no animation takes place. forwardback makes turtle jump and likewise leftright make the turtle turn instantly. Example (for a Turtle instance named turtle): &gt;&gt;&gt; turtle.speed(3)" />
+      <item value="speed" />
+      <item value="角度" />
+      <item value="角" />
+      <item value="各" />
       <item value="四角&#9;" />
       <item value="四角" />
       <item value="rectangular" />
@@ -49,16 +55,11 @@
       <item value="TODO-2: - If guess is not a letter in the chosen_word," />
       <item value="Then reduce 'lives' by 1." />
       <item value="If lives goes down to 0 then the game should stop and it should print &quot;You lose.&quot;" />
-      <item value="TODO-3: - print the ASCII art from 'stages' that corresponds to the current number of 'lives' the user has remaining." />
-      <item value="6" />
-      <item value="TODO-1: - Create a variable called 'lives' to keep track of the number of lives left." />
-      <item value="TODO-1: - Use a while loop to let the user guess again. The loop should only stop once the user has guessed all the letters in the chosen_word and 'display' has no more blanks (&quot;_&quot;). Then you can tell the user they've won." />
-      <item value="Hint - Don't worry about getting the user to guess the next letter. We'll tackle that in step 3." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="58" />
-        <entry key="JAPANESE" value="57" />
+        <entry key="ENGLISH" value="60" />
+        <entry key="JAPANESE" value="61" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
