@@ -3,8 +3,14 @@
     <option name="newTranslationDialogHeight" value="443" />
     <option name="newTranslationDialogWidth" value="814" />
     <option name="newTranslationDialogX" value="367" />
-    <option name="newTranslationDialogY" value="487" />
+    <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="かけ算" />
+      <item value="かけさ" />
+      <item value="引き算" />
+      <item value="ひき" />
+      <item value="ひ" />
+      <item value="かけざん" />
       <item value="This code will not work in repl.it as there is no access to the colorgram package here. We talk about this in the video tutorials" />
       <item value="方向" />
       <item value="times" />
@@ -26,8 +32,6 @@
       <item value="mutate" />
       <item value="割り算" />
       <item value="わりざ" />
-      <item value="かけ算" />
-      <item value="引き算" />
       <item value="leap" />
       <item value="le" />
       <item value="lep" />
@@ -51,10 +55,6 @@
       <item value=" Don't change the code below " />
       <item value="Review: Create a function called greet(). Write 3 print statements inside the function. Call the greet() function and run your code." />
       <item value="TODO-5: - If the letter is not in the chosen_word, print out the letter and let them know it's not in the word." />
-      <item value="TODO-4: - If the user has entered a letter they've already guessed, print the letter and let them know." />
-      <item value="TODO-3: - Import the logo from hangman_art.py and print it at the start of the game." />
-      <item value="TODO-2: - Import the stages from hangman_art.py and make this error go away." />
-      <item value="TODO-1: - Update the word list to use the 'word_list' from hangman_words.py" />
     </histories>
     <option name="languageScores">
       <map>
