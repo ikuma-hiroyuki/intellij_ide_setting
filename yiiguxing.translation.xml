@@ -3,8 +3,17 @@
     <option name="newTranslationDialogHeight" value="443" />
     <option name="newTranslationDialogWidth" value="814" />
     <option name="newTranslationDialogX" value="367" />
-    <option name="newTranslationDialogY" value="487" />
+    <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="端っこ" />
+      <item value="はじ" />
+      <item value="かけ算" />
+      <item value="かけさ" />
+      <item value="引き算" />
+      <item value="ひき" />
+      <item value="ひ" />
+      <item value="かけざん" />
+      <item value="This code will not work in repl.it as there is no access to the colorgram package here. We talk about this in the video tutorials" />
       <item value="方向" />
       <item value="times" />
       <item value="Return or set the turtle's speed. Optional argument: speed – an integer in the range 0..10 or a speedstring (see below) Set the turtle's speed to an integer value in the range 0 .. 10. If no argument is given: return current speed. If input is a number greater than 10 or smaller than 0.5, speed is set to 0. Speedstrings are mapped to speedvalues in the following way: 'fastest' : 0 'fast' : 10 'normal' : 6 'slow' : 3 'slowest' : 1 speeds from 1 to 10 enforce increasingly faster animation of line drawing and turtle turning. Attention: speed = 0 : no animation takes place. forwardback makes turtle jump and likewise leftright make the turtle turn instantly. Example (for a Turtle instance named turtle): &gt;&gt;&gt; turtle.speed(3)" />
@@ -25,8 +34,6 @@
       <item value="mutate" />
       <item value="割り算" />
       <item value="わりざ" />
-      <item value="かけ算" />
-      <item value="引き算" />
       <item value="leap" />
       <item value="le" />
       <item value="lep" />
@@ -48,17 +55,10 @@
       <item value="面積" />
       <item value="面積&#9;" />
       <item value=" Don't change the code below " />
-      <item value="Review: Create a function called greet(). Write 3 print statements inside the function. Call the greet() function and run your code." />
-      <item value="TODO-5: - If the letter is not in the chosen_word, print out the letter and let them know it's not in the word." />
-      <item value="TODO-4: - If the user has entered a letter they've already guessed, print the letter and let them know." />
-      <item value="TODO-3: - Import the logo from hangman_art.py and print it at the start of the game." />
-      <item value="TODO-2: - Import the stages from hangman_art.py and make this error go away." />
-      <item value="TODO-1: - Update the word list to use the 'word_list' from hangman_words.py" />
-      <item value="TODO-2: - If guess is not a letter in the chosen_word," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="JAPANESE" value="61" />
         <entry key="SLOVAK" value="2" />
       </map>
