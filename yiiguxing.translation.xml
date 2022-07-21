@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="接触" />
+      <item value="衝突" />
+      <item value="Made contact" />
       <item value="パドル" />
       <item value="ぱと" />
       <item value="increase" />
@@ -52,14 +55,11 @@
       <item value="letter" />
       <item value="todo-2: inside the 'encrypt' function, shift each letter of the 'text' forwards in the alphabet by the shift amount and print the encrypted text." />
       <item value="TODO-3: Call the encrypt function and pass in the user inputs. You should be able to test the code and encrypt a message." />
-      <item value="TODO-1: Create a function called 'encrypt' that takes the 'text' and 'shift' as inputs." />
-      <item value="Write your code above this line " />
-      <item value="above" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="64" />
-        <entry key="JAPANESE" value="63" />
+        <entry key="ENGLISH" value="65" />
+        <entry key="JAPANESE" value="64" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
