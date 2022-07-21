@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="パドル" />
+      <item value="ぱと" />
       <item value="increase" />
       <item value="increase score" />
       <item value="端っこ" />
@@ -53,8 +55,6 @@
       <item value="TODO-1: Create a function called 'encrypt' that takes the 'text' and 'shift' as inputs." />
       <item value="Write your code above this line " />
       <item value="above" />
-      <item value="Define a function called paint_calc() so that the code below works." />
-      <item value="面積" />
     </histories>
     <option name="languageScores">
       <map>
