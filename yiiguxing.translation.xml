@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="更新" />
       <item value="pen for writing, appending to the end of the file if it exists" />
       <item value="open" />
       <item value="increase" />
@@ -54,7 +55,6 @@
       <item value="HINT: You can call clear() to clear the output in the console." />
       <item value="TODO: Write the function that will allow new countries to be added to the travel_log. " />
       <item value="TODO-2: Call the caesar() function, passing over the 'text', 'shift' and 'direction' values." />
-      <item value="TODO-3: Check if the user wanted to encrypt or decrypt the message by checking the 'direction' variable. Then call the correct function based on that 'drection' variable. You should be able to test the code to encrypt AND decrypt a message." />
     </histories>
     <option name="languageScores">
       <map>
