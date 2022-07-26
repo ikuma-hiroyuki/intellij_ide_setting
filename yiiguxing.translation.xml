@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="Guess" />
+      <item value="Guess the State" />
       <item value="mean" />
       <item value="温度" />
       <item value="更新" />
@@ -53,13 +55,11 @@
       <item value="lep" />
       <item value="amount" />
       <item value="bid amount" />
-      <item value="bids" />
-      <item value="HINT: You can call clear() to clear the output in the console." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="70" />
-        <entry key="JAPANESE" value="69" />
+        <entry key="ENGLISH" value="72" />
+        <entry key="JAPANESE" value="71" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
