@@ -5,11 +5,16 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="温度" />
+      <item value="てん" />
+      <item value="曜日" />
+      <item value="単語" />
+      <item value="たん" />
+      <item value="What is the Airspeed Velocity of an Unladen Swallow?" />
       <item value="座標" />
       <item value="Guess" />
       <item value="Guess the State" />
       <item value="mean" />
-      <item value="温度" />
       <item value="更新" />
       <item value="pen for writing, appending to the end of the file if it exists" />
       <item value="open" />
@@ -50,16 +55,11 @@
       <item value="Which year do you want to check?" />
       <item value="mutate" />
       <item value="割り算" />
-      <item value="わりざ" />
-      <item value="leap" />
-      <item value="le" />
-      <item value="lep" />
-      <item value="amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="72" />
-        <entry key="JAPANESE" value="71" />
+        <entry key="ENGLISH" value="73" />
+        <entry key="JAPANESE" value="72" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
