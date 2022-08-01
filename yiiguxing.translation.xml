@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="457" />
     <histories>
+      <item value="検索" />
       <item value="一分" />
       <item value="いっ" />
       <item value="説明" />
@@ -54,7 +55,6 @@
       <item value="角" />
       <item value="各" />
       <item value="四角&#9;" />
-      <item value="四角" />
     </histories>
     <option name="languageScores">
       <map>
