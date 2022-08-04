@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="quote" />
       <item value="HINT 3: Use dictionary comprehension to create a dictionary from birthday.csv that is formated like this: birthdays_dict = { (birthday_month, birthday_day): data_row }" />
       <item value="Fill this in!" />
       <item value="2. Check if today matches a birthday in the birthdays.csv HINT 1: Create a tuple from today's month and day using datetime. e.g. today = (today_month, today_day)" />
@@ -54,12 +55,11 @@
       <item value="接触" />
       <item value="衝突" />
       <item value="Made contact" />
-      <item value="パドル" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="87" />
-        <entry key="JAPANESE" value="86" />
+        <entry key="ENGLISH" value="88" />
+        <entry key="JAPANESE" value="87" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
