@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="sunrise" />
+      <item value="sunset" />
+      <item value="If the ISS is close to my current position and it is currently dark" />
+      <item value="If the ISS is close to my current position and it is currently dark Then send me an email to tell me to look up. BONUS: run the code every 60 seconds." />
+      <item value="your position is within +5 or -5 degrees of the iss position." />
       <item value="quote" />
       <item value="HINT 3: Use dictionary comprehension to create a dictionary from birthday.csv that is formated like this: birthdays_dict = { (birthday_month, birthday_day): data_row }" />
       <item value="Fill this in!" />
@@ -50,16 +55,11 @@
       <item value="pen for writing, appending to the end of the file if it exists" />
       <item value="open" />
       <item value="increase" />
-      <item value="increase level" />
-      <item value="STARTING MOVE DISTANCE" />
-      <item value="接触" />
-      <item value="衝突" />
-      <item value="Made contact" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="88" />
-        <entry key="JAPANESE" value="87" />
+        <entry key="ENGLISH" value="93" />
+        <entry key="JAPANESE" value="92" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
