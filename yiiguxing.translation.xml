@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="When stock price increasedecreases by 5% between yesterday and the day before yesterday then print(&quot;Get News&quot;)." />
       <item value="sunrise" />
       <item value="sunset" />
       <item value="If the ISS is close to my current position and it is currently dark" />
@@ -54,7 +55,6 @@
       <item value="更新" />
       <item value="pen for writing, appending to the end of the file if it exists" />
       <item value="open" />
-      <item value="increase" />
     </histories>
     <option name="languageScores">
       <map>
