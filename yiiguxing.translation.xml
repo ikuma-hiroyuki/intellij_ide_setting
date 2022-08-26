@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="resolve" />
       <item value="見出し" />
       <item value="男性" />
       <item value="TODO 5. - If TODO4 percentage is greater than 5 then print(&quot;Get News&quot;)." />
@@ -54,17 +55,16 @@
       <item value="曜日" />
       <item value="単語" />
       <item value="たん" />
-      <item value="What is the Airspeed Velocity of an Unladen Swallow?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="100" />
-        <entry key="JAPANESE" value="99" />
+        <entry key="ENGLISH" value="101" />
+        <entry key="JAPANESE" value="100" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659827701960" />
+    <option name="lastTrimTime" value="1661474165379" />
   </component>
 </application>
