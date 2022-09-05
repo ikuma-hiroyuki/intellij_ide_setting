@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="プロジェクト 'exercise_openpyxl'" />
+    <option name="defaultScopeName" value="プロジェクト 'exercise_openpyxl'" />
+    <option name="SEARCH_SCOPE" value="プロジェクト 'exercise_openpyxl'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
