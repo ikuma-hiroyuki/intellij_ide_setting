@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="corporate list" />
+      <item value="invoice" />
+      <item value="announcement" />
+      <item value="announce data" />
+      <item value="announce" />
       <item value="resolve" />
       <item value="見出し" />
       <item value="男性" />
@@ -50,21 +55,16 @@
       <item value="Create a list of the phonetic code words from a word that the user inputs." />
       <item value="Create a dictionary in this format" />
       <item value="区切り" />
-      <item value="温度" />
-      <item value="てん" />
-      <item value="曜日" />
-      <item value="単語" />
-      <item value="たん" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="101" />
-        <entry key="JAPANESE" value="100" />
+        <entry key="ENGLISH" value="107" />
+        <entry key="JAPANESE" value="106" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661474165379" />
+    <option name="lastTrimTime" value="1663375538215" />
   </component>
 </application>
