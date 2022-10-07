@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="画面更新" />
       <item value="generater" />
       <item value="ignore" />
       <item value="extrasaction" />
@@ -54,7 +55,6 @@
       <item value="とうろく" />
       <item value="とう" />
       <item value="情報" />
-      <item value="検索" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664166519685" />
+    <option name="lastTrimTime" value="1665130356684" />
   </component>
 </application>
