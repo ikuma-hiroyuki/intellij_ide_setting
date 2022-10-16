@@ -30,6 +30,10 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="RestoreDefaultLayout" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
