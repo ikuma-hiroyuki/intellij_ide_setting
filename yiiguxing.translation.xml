@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="ingredients list" />
+      <item value="ingredients" />
       <item value="ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.&#10;rembg 2.0.25 requires scipy==1.7.3, but you have scipy 1.9.2 which is incompatible.&#10;" />
       <item value=" No such file or directory" />
       <item value="input inventory quantity" />
@@ -53,12 +55,10 @@
       <item value="aは登録されていません" />
       <item value="は登録されていません" />
       <item value="と" />
-      <item value="登録されていません" />
-      <item value="とうろくさ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="116" />
+        <entry key="ENGLISH" value="118" />
         <entry key="CORSICAN" value="1" />
         <entry key="JAPANESE" value="117" />
         <entry key="SLOVAK" value="2" />
