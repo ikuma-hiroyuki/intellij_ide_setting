@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="443" />
-    <option name="newTranslationDialogWidth" value="810" />
+    <option name="newTranslationDialogWidth" value="808" />
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="処理中&#9;" />
+      <item value="処理中" />
       <item value="stem" />
       <item value="ingredients list" />
       <item value="ingredients" />
@@ -53,8 +55,6 @@
       <item value="Your Name,your own@email.com,today year,today month,today day" />
       <item value="1. Update the birthdays.csv with your friends &amp; family's details. HINT: Make sure one of the entries matches today's date for testing purposes. e.g. name,email,year,month,day YourName,your_own@email.com,today_year,today_month,today_day" />
       <item value="a は登録されていません" />
-      <item value="aは登録されていません" />
-      <item value="は登録されていません" />
     </histories>
     <option name="languageScores">
       <map>
