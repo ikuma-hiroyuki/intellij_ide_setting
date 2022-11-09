@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="855" />
     <option name="newTranslationDialogY" value="424" />
     <histories>
+      <item value="基準" />
       <item value="先" />
       <item value="両替先" />
       <item value="両替元" />
@@ -54,13 +55,12 @@
       <item value="todo 2. - get the day before yesterday's closing stock price" />
       <item value="when stock price increasedecreases by 5% between yesterday and the day before yesterday then print(&quot;get news&quot;)." />
       <item value="When stock price increasedecreases by 5% between yesterday and the day before yesterday then print(&quot;Get News&quot;)." />
-      <item value="sunrise" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="125" />
         <entry key="CORSICAN" value="1" />
-        <entry key="JAPANESE" value="124" />
+        <entry key="JAPANESE" value="125" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
