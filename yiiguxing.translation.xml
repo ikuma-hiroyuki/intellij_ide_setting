@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="443" />
-    <option name="newTranslationDialogWidth" value="802" />
+    <option name="newTranslationDialogWidth" value="800" />
     <option name="newTranslationDialogX" value="855" />
     <option name="newTranslationDialogY" value="424" />
     <histories>
+      <item value="先" />
+      <item value="両替先" />
+      <item value="両替元" />
+      <item value="両替もと" />
+      <item value="l" />
       <item value="mean" />
       <item value="内包表記" />
       <item value="appendで偶数リストをつくる" />
@@ -50,17 +55,12 @@
       <item value="when stock price increasedecreases by 5% between yesterday and the day before yesterday then print(&quot;get news&quot;)." />
       <item value="When stock price increasedecreases by 5% between yesterday and the day before yesterday then print(&quot;Get News&quot;)." />
       <item value="sunrise" />
-      <item value="sunset" />
-      <item value="If the ISS is close to my current position and it is currently dark" />
-      <item value="If the ISS is close to my current position and it is currently dark Then send me an email to tell me to look up. BONUS: run the code every 60 seconds." />
-      <item value="your position is within +5 or -5 degrees of the iss position." />
-      <item value="quote" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="CORSICAN" value="1" />
-        <entry key="JAPANESE" value="123" />
+        <entry key="JAPANESE" value="124" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
