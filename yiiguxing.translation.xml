@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="855" />
     <option name="newTranslationDialogY" value="424" />
     <histories>
+      <item value="mean" />
       <item value="内包表記" />
       <item value="appendで偶数リストをつくる" />
       <item value="appendで偶数リストをつく" />
@@ -54,18 +55,17 @@
       <item value="If the ISS is close to my current position and it is currently dark Then send me an email to tell me to look up. BONUS: run the code every 60 seconds." />
       <item value="your position is within +5 or -5 degrees of the iss position." />
       <item value="quote" />
-      <item value="HINT 3: Use dictionary comprehension to create a dictionary from birthday.csv that is formated like this: birthdays_dict = { (birthday_month, birthday_day): data_row }" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="CORSICAN" value="1" />
-        <entry key="JAPANESE" value="122" />
+        <entry key="JAPANESE" value="123" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667291076120" />
+    <option name="lastTrimTime" value="1667975831653" />
   </component>
 </application>
