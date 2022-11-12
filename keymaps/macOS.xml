@@ -26,9 +26,11 @@
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
