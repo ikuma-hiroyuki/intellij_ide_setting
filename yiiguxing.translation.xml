@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="855" />
     <option name="newTranslationDialogY" value="424" />
     <histories>
+      <item value="登場人物&#9;" />
+      <item value="登場人物" />
       <item value="OFFENSIVE POWER" />
       <item value="攻撃力" />
       <item value="こうけ" />
@@ -53,8 +55,6 @@
       <item value="announcement" />
       <item value="announce data" />
       <item value="announce" />
-      <item value="resolve" />
-      <item value="見出し" />
     </histories>
     <option name="languageScores">
       <map>
