@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="855" />
     <option name="newTranslationDialogY" value="424" />
     <histories>
+      <item value="OFFENSIVE POWER" />
+      <item value="攻撃力" />
+      <item value="こうけ" />
       <item value="Inappropriate argument value (of correct type)." />
       <item value=" Inappropriate argument value (of correct type). " />
       <item value="unresolve" />
@@ -52,15 +55,12 @@
       <item value="announce" />
       <item value="resolve" />
       <item value="見出し" />
-      <item value="男性" />
-      <item value="TODO 5. - If TODO4 percentage is greater than 5 then print(&quot;Get News&quot;)." />
-      <item value="TODO 3. - Find the positive difference between 1 and 2. e.g. 40 - 20 = -20, but the positive difference is 20. Hint: https:www.w3schools.compythonref_func_abs.asp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="CORSICAN" value="1" />
-        <entry key="JAPANESE" value="127" />
+        <entry key="JAPANESE" value="128" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
