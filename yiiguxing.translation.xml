@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="144" />
     <option name="newTranslationDialogY" value="424" />
     <histories>
+      <item value="攻撃判定" />
+      <item value="判定" />
       <item value="技の名前" />
       <item value="わざの" />
       <item value="get battle command" />
@@ -53,8 +55,6 @@
       <item value="ＲＩＳＥ" />
       <item value="RISE" />
       <item value="発生" />
-      <item value="corporate list" />
-      <item value="invoice" />
     </histories>
     <option name="languageScores">
       <map>
