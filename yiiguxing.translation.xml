@@ -1,10 +1,27 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="443" />
-    <option name="newTranslationDialogWidth" value="800" />
-    <option name="newTranslationDialogX" value="855" />
+    <option name="newTranslationDialogWidth" value="755" />
+    <option name="newTranslationDialogX" value="144" />
     <option name="newTranslationDialogY" value="424" />
     <histories>
+      <item value="by kill to" />
+      <item value="by kill" />
+      <item value="self" />
+      <item value="墓" />
+      <item value="7891" />
+      <item value="攻撃判定" />
+      <item value="判定" />
+      <item value="技の名前" />
+      <item value="わざの" />
+      <item value="get battle command" />
+      <item value="登場人物&#9;" />
+      <item value="登場人物" />
+      <item value="OFFENSIVE POWER" />
+      <item value="攻撃力" />
+      <item value="こうけ" />
+      <item value="Inappropriate argument value (of correct type)." />
+      <item value=" Inappropriate argument value (of correct type). " />
       <item value="unresolve" />
       <item value="unre" />
       <item value="基準" />
@@ -38,29 +55,12 @@
       <item value="extrasaction" />
       <item value="登録" />
       <item value="とうろくん" />
-      <item value="regist" />
-      <item value="rise" />
-      <item value="ＲＩＳＥ" />
-      <item value="RISE" />
-      <item value="発生" />
-      <item value="corporate list" />
-      <item value="invoice" />
-      <item value="announcement" />
-      <item value="announce data" />
-      <item value="announce" />
-      <item value="resolve" />
-      <item value="見出し" />
-      <item value="男性" />
-      <item value="TODO 5. - If TODO4 percentage is greater than 5 then print(&quot;Get News&quot;)." />
-      <item value="TODO 3. - Find the positive difference between 1 and 2. e.g. 40 - 20 = -20, but the positive difference is 20. Hint: https:www.w3schools.compythonref_func_abs.asp" />
-      <item value="TODO 1. - Get yesterday's closing stock price. Hint: You can perform list comprehensions on Python dictionaries. e.g. [new_value for (key, value) in dictionary.items()]" />
-      <item value="todo 2. - get the day before yesterday's closing stock price" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="125" />
+        <entry key="ENGLISH" value="131" />
         <entry key="CORSICAN" value="1" />
-        <entry key="JAPANESE" value="126" />
+        <entry key="JAPANESE" value="132" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
