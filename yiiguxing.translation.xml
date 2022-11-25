@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="144" />
     <option name="newTranslationDialogY" value="424" />
     <histories>
+      <item value="tie" />
+      <item value="even&#10;引き分け" />
+      <item value="even&#10;" />
+      <item value="even" />
       <item value="質問" />
       <item value="聞" />
       <item value="聞く" />
@@ -51,17 +55,13 @@
       <item value="偶数リストを作る" />
       <item value="ぐう" />
       <item value="ぐうりす" />
-      <item value="ぐうりすう" />
-      <item value="f 1" />
-      <item value="処理中&#9;" />
-      <item value="処理中" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="134" />
+        <entry key="ENGLISH" value="140" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="CORSICAN" value="1" />
-        <entry key="JAPANESE" value="133" />
+        <entry key="JAPANESE" value="140" />
         <entry key="SLOVAK" value="2" />
       </map>
     </option>
