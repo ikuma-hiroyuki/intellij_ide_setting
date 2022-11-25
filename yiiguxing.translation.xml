@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="144" />
     <option name="newTranslationDialogY" value="424" />
     <histories>
+      <item value="質問" />
+      <item value="聞" />
+      <item value="聞く" />
+      <item value="引き分け" />
       <item value="You Lose..." />
       <item value="ディーラー" />
       <item value="でぃーら" />
@@ -51,10 +55,6 @@
       <item value="f 1" />
       <item value="処理中&#9;" />
       <item value="処理中" />
-      <item value="stem" />
-      <item value="ingredients list" />
-      <item value="ingredients" />
-      <item value="ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.&#10;rembg 2.0.25 requires scipy==1.7.3, but you have scipy 1.9.2 which is incompatible.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
