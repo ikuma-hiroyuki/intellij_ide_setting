@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="144" />
     <option name="newTranslationDialogY" value="424" />
     <histories>
+      <item value="Player" />
       <item value="表側" />
       <item value="おもて" />
       <item value="dealer" />
@@ -54,7 +55,6 @@
       <item value="mean" />
       <item value="内包表記" />
       <item value="appendで偶数リストをつくる" />
-      <item value="appendで偶数リストをつく" />
     </histories>
     <option name="languageScores">
       <map>
