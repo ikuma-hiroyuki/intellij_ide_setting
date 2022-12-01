@@ -69,4 +69,15 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1669277767594" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1669937498452" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="translator" value="DEEPL" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="367" />
+    <option name="newTranslationDialogY" value="487" />
+  </component>
 </application>
