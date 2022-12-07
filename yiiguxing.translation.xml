@@ -70,16 +70,18 @@
     <option name="lastTrimTime" value="1669277767594" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1669937498452" />
+    <option name="lastTrimTime" value="1670383806966" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="DEEPL" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="487" />
     <histories>
+      <item value="勝負の結果" />
+      <item value="勝敗" />
       <item value="一枚引く" />
     </histories>
   </component>
