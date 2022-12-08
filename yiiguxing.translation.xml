@@ -80,9 +80,16 @@
     <option name="newTranslationDialogX" value="367" />
     <option name="newTranslationDialogY" value="487" />
     <histories>
+      <item value="credentials" />
       <item value="勝負の結果" />
       <item value="勝敗" />
       <item value="一枚引く" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="JAPANESE" value="1" />
+      </map>
+    </option>
   </component>
 </application>
