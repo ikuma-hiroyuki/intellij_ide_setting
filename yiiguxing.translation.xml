@@ -70,7 +70,7 @@
     <option name="lastTrimTime" value="1669277767594" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1670383806966" />
+    <option name="lastTrimTime" value="1670888488136" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="DEEPL" />
@@ -80,6 +80,7 @@
     <option name="newTranslationDialogX" value="1336" />
     <option name="newTranslationDialogY" value="532" />
     <histories>
+      <item value="連番" />
       <item value="工程記号" />
       <item value="credentials" />
       <item value="勝負の結果" />
