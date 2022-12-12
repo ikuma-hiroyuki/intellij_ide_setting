@@ -80,6 +80,7 @@
     <option name="newTranslationDialogX" value="1336" />
     <option name="newTranslationDialogY" value="532" />
     <histories>
+      <item value="工程記号" />
       <item value="credentials" />
       <item value="勝負の結果" />
       <item value="勝敗" />
@@ -88,7 +89,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="1" />
-        <entry key="JAPANESE" value="1" />
+        <entry key="JAPANESE" value="2" />
       </map>
     </option>
   </component>
