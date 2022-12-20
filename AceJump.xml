@@ -1,6 +1,6 @@
 <application>
   <component name="AceConfig">
-    <option name="searchWholeFile" value="false" />
-    <option name="tagBackgroundRGB" value="-65396" />
+    <option name="tagForegroundRGB" value="-16777216" />
+    <option name="tagBackgroundRGB" value="-6912" />
   </component>
 </application>

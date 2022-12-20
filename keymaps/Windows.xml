@@ -6,6 +6,7 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl at" />
   </action>
+  <action id="GotoRow" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
