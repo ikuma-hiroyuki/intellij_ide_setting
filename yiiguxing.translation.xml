@@ -7,6 +7,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="confidence" />
       <item value="don't run with debug turned on in production!" />
       <item value="keep the secret key used in production secret!" />
       <item value="ALLOWED" />
@@ -14,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="4" />
-        <entry key="JAPANESE" value="4" />
+        <entry key="ENGLISH" value="5" />
+        <entry key="JAPANESE" value="5" />
       </map>
     </option>
   </component>
