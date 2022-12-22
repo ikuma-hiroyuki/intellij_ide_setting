@@ -8,6 +8,5 @@
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.py</mask>
-    <mask>*.md</mask>
   </component>
 </application>
