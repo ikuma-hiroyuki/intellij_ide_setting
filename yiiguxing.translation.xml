@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1671267562644" />
+    <option name="lastTrimTime" value="1671915397289" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="DEEPL" />
@@ -10,6 +10,7 @@
     <option name="newTranslationDialogX" value="370" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="any list" />
       <item value="座標" />
       <item value="confidence" />
       <item value="don't run with debug turned on in production!" />
@@ -20,7 +21,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="5" />
-        <entry key="JAPANESE" value="6" />
+        <entry key="JAPANESE" value="7" />
       </map>
     </option>
   </component>
