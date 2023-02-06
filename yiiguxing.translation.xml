@@ -10,6 +10,7 @@
     <option name="newTranslationDialogX" value="370" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="product number" />
       <item value="Manager isn't accessible via UploadFile instances" />
       <item value="A base view for displaying a list of objects." />
       <item value="Couldn't import Django. Are you sure it's installed and &#10;available on your PYTHONPATH environment variable? Did you &#10;forget to activate a virtual environment?" />
@@ -27,7 +28,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="8" />
+        <entry key="ENGLISH" value="9" />
         <entry key="JAPANESE" value="9" />
       </map>
     </option>
