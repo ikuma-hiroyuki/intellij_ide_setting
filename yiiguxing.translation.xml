@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673503350721" />
+    <option name="lastTrimTime" value="1675650375735" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="DEEPL" />
@@ -10,6 +10,7 @@
     <option name="newTranslationDialogX" value="370" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="A base view for displaying a list of objects." />
       <item value="Couldn't import Django. Are you sure it's installed and &#10;available on your PYTHONPATH environment variable? Did you &#10;forget to activate a virtual environment?" />
       <item value="Couldn't import Django. Are you sure it's installed and &quot;&#10;available on your PYTHONPATH environment variable? Did you &quot;&#10;forget to activate a virtual environment?" />
       <item value="Couldn't import Django. Are you sure it's installed and &quot;&#10;available on your PYTHONPATH environment variable? Did you &quot;&#10;forget to activate a virtual environment?&quot;" />
@@ -25,7 +26,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="6" />
+        <entry key="ENGLISH" value="7" />
         <entry key="JAPANESE" value="9" />
       </map>
     </option>
