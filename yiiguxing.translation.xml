@@ -10,6 +10,7 @@
     <option name="newTranslationDialogX" value="370" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="View for updating an object, with a response rendered by a template." />
       <item value="product number" />
       <item value="Manager isn't accessible via UploadFile instances" />
       <item value="A base view for displaying a list of objects." />
@@ -28,8 +29,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="9" />
-        <entry key="JAPANESE" value="9" />
+        <entry key="ENGLISH" value="10" />
+        <entry key="JAPANESE" value="10" />
       </map>
     </option>
   </component>
