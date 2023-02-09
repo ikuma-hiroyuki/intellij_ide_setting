@@ -10,6 +10,10 @@
     <option name="newTranslationDialogX" value="370" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="render to response" />
+      <item value="allow" />
+      <item value="Set self.object before the usual form processing flow. Inlined because having DeletionMixin as the first base, for get_success_url(), makes leveraging super() with ProcessFormView overly complex." />
+      <item value="View for updating an object, with a response rendered by a template." />
       <item value="product number" />
       <item value="Manager isn't accessible via UploadFile instances" />
       <item value="A base view for displaying a list of objects." />
@@ -28,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="9" />
-        <entry key="JAPANESE" value="9" />
+        <entry key="ENGLISH" value="13" />
+        <entry key="JAPANESE" value="13" />
       </map>
     </option>
   </component>
