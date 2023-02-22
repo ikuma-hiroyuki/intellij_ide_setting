@@ -47,8 +47,10 @@
   <action id="RestoreDefaultLayout" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="SmartTypeCompletion" />
+  <action id="UsageFiltering.ReadAccess" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
