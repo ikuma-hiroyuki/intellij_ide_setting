@@ -10,6 +10,7 @@
     <option name="newTranslationDialogX" value="370" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="contain" />
       <item value="Bundled Photo" />
       <item value="tiff to jpeg on memory" />
       <item value="File Upload View By Form" />
@@ -35,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="16" />
-        <entry key="JAPANESE" value="16" />
+        <entry key="ENGLISH" value="17" />
+        <entry key="JAPANESE" value="17" />
       </map>
     </option>
   </component>
