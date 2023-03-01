@@ -1,36 +1,17 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1677222559251" />
+    <option name="lastTrimTime" value="1677704943612" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="DEEPL" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="370" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
-      <item value="testvote&#10;" />
-      <item value="品質管理&#9;課" />
-      <item value="品質管理課" />
-      <item value="品質管理" />
-      <item value="本番環境" />
-      <item value="contain" />
-      <item value="Bundled Photo" />
-      <item value="tiff to jpeg on memory" />
-      <item value="File Upload View By Form" />
-      <item value="render to response" />
-      <item value="allow" />
-      <item value="Set self.object before the usual form processing flow. Inlined because having DeletionMixin as the first base, for get_success_url(), makes leveraging super() with ProcessFormView overly complex." />
-      <item value="View for updating an object, with a response rendered by a template." />
-      <item value="product number" />
-      <item value="Manager isn't accessible via UploadFile instances" />
-      <item value="A base view for displaying a list of objects." />
-      <item value="Couldn't import Django. Are you sure it's installed and &#10;available on your PYTHONPATH environment variable? Did you &#10;forget to activate a virtual environment?" />
-      <item value="Couldn't import Django. Are you sure it's installed and &quot;&#10;available on your PYTHONPATH environment variable? Did you &quot;&#10;forget to activate a virtual environment?" />
-      <item value="Couldn't import Django. Are you sure it's installed and &quot;&#10;available on your PYTHONPATH environment variable? Did you &quot;&#10;forget to activate a virtual environment?&quot;" />
-      <item value="forget to activate a virtual environment?" />
-      <item value="持ち帰り" />
+      <item value="female" />
+      <item value="gender" />
       <item value="any list" />
       <item value="座標" />
       <item value="confidence" />
@@ -41,8 +22,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="20" />
-        <entry key="JAPANESE" value="20" />
+        <entry key="ENGLISH" value="6" />
+        <entry key="GERMAN" value="1" />
+        <entry key="JAPANESE" value="7" />
       </map>
     </option>
   </component>
