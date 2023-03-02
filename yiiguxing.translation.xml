@@ -10,6 +10,7 @@
     <option name="newTranslationDialogX" value="370" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="のこり" />
       <item value="female" />
       <item value="gender" />
       <item value="any list" />
@@ -22,9 +23,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="6" />
+        <entry key="ENGLISH" value="7" />
         <entry key="GERMAN" value="1" />
-        <entry key="JAPANESE" value="7" />
+        <entry key="JAPANESE" value="8" />
       </map>
     </option>
   </component>
