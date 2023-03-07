@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1677735725509" />
+    <option name="lastTrimTime" value="1678177405217" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="DEEPL" />
@@ -10,6 +10,8 @@
     <option name="newTranslationDialogX" value="370" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="受注" />
+      <item value="受注台帳" />
       <item value="amount" />
       <item value="CASCADE" />
       <item value="django.db.utils.IntegrityError: UNIQUE constraint failed: note_tag.slug" />
