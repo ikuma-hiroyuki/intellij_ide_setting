@@ -10,6 +10,11 @@
     <option name="newTranslationDialogX" value="370" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="社内納期" />
+      <item value="quantity" />
+      <item value="製品部品" />
+      <item value="受注取引先コード" />
+      <item value="受注id" />
       <item value="受注" />
       <item value="受注台帳" />
       <item value="amount" />
@@ -48,8 +53,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="23" />
-        <entry key="JAPANESE" value="23" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="25" />
+        <entry key="JAPANESE" value="26" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
