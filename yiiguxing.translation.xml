@@ -6,10 +6,13 @@
     <option name="translator" value="DEEPL" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="370" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="指示書" />
+      <item value="指示" />
+      <item value="指示書番号" />
       <item value="出荷" />
       <item value="社内納期" />
       <item value="quantity" />
