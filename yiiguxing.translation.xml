@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="633" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="Prints the values to a stream, or to sys.stdout by default. Optional keyword arguments: file: a file-like object (stream); defaults to the current sys.stdout. sep: string inserted between values, default a space. end: string appended after the last value, default a newline. flush: whether to forcibly flush the stream." />
       <item value="管理" />
       <item value="管理下" />
       <item value="かんり" />
@@ -56,12 +57,11 @@
       <item value="confidence" />
       <item value="don't run with debug turned on in production!" />
       <item value="keep the secret key used in production secret!" />
-      <item value="ALLOWED" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="JAPANESE" value="30" />
         <entry key="SPANISH" value="1" />
       </map>
