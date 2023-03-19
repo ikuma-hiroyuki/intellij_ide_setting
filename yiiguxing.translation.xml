@@ -1,12 +1,19 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678777602631" />
+    <option name="lastTrimTime" value="1679268134335" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="633" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="get poplation" />
+      <item value="人口" />
+      <item value="人工" />
+      <item value="じ" />
+      <item value="Homo sapiens" />
+      <item value="ホモサピエンス" />
+      <item value="grunt" />
       <item value="引き算" />
       <item value="割り算" />
       <item value="わり" />
@@ -50,19 +57,13 @@
       <item value="View for updating an object, with a response rendered by a template." />
       <item value="product number" />
       <item value="Manager isn't accessible via UploadFile instances" />
-      <item value="A base view for displaying a list of objects." />
-      <item value="Couldn't import Django. Are you sure it's installed and &#10;available on your PYTHONPATH environment variable? Did you &#10;forget to activate a virtual environment?" />
-      <item value="Couldn't import Django. Are you sure it's installed and &quot;&#10;available on your PYTHONPATH environment variable? Did you &quot;&#10;forget to activate a virtual environment?" />
-      <item value="Couldn't import Django. Are you sure it's installed and &quot;&#10;available on your PYTHONPATH environment variable? Did you &quot;&#10;forget to activate a virtual environment?&quot;" />
-      <item value="forget to activate a virtual environment?" />
-      <item value="持ち帰り" />
-      <item value="any list" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="32" />
-        <entry key="JAPANESE" value="31" />
+        <entry key="ENGLISH" value="34" />
+        <entry key="JAPANESE" value="33" />
+        <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
