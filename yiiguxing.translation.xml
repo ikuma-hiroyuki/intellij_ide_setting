@@ -1,15 +1,20 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1677704943612" />
+    <option name="lastTrimTime" value="1678825433468" />
   </component>
   <component name="Translation.Settings">
-    <option name="translator" value="DEEPL" />
+    <option name="primaryLanguage" value="JAPANESE" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="370" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="倍数" />
+      <item value="繰返し回数" />
+      <item value="合計数値" />
+      <item value="3の倍数" />
+      <item value="langages" />
       <item value="のこり" />
       <item value="female" />
       <item value="gender" />
@@ -23,9 +28,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="7" />
+        <entry key="ENGLISH" value="8" />
+        <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="JAPANESE" value="8" />
+        <entry key="JAPANESE" value="9" />
       </map>
     </option>
   </component>
