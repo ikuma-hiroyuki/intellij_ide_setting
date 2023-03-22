@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678825433468" />
+    <option name="lastTrimTime" value="1679517897026" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="JAPANESE" />
@@ -10,6 +10,8 @@
     <option name="newTranslationDialogX" value="370" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="預かり金" />
+      <item value="あず" />
       <item value="倍数" />
       <item value="繰返し回数" />
       <item value="合計数値" />
