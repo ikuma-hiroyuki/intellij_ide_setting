@@ -7,6 +7,8 @@
     <option name="newTranslationDialogX" value="633" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="by" />
+      <item value="paginate by" />
       <item value="無効な" />
       <item value="むこうな" />
       <item value="むこうなめ" />
@@ -55,14 +57,12 @@
       <item value="TypeError: QuerySet indices must be integers or slices, not str." />
       <item value="成人年齢" />
       <item value="testvote&#10;" />
-      <item value="品質管理&#9;課" />
-      <item value="品質管理課" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="38" />
-        <entry key="JAPANESE" value="38" />
+        <entry key="ENGLISH" value="40" />
+        <entry key="JAPANESE" value="39" />
         <entry key="LATIN" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
