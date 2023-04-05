@@ -1,12 +1,14 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1680165869462" />
+    <option name="lastTrimTime" value="1680679441034" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="633" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="修正" />
+      <item value="し" />
       <item value="by" />
       <item value="paginate by" />
       <item value="無効な" />
@@ -55,8 +57,6 @@
       <item value="CASCADE" />
       <item value="django.db.utils.IntegrityError: UNIQUE constraint failed: note_tag.slug" />
       <item value="TypeError: QuerySet indices must be integers or slices, not str." />
-      <item value="成人年齢" />
-      <item value="testvote&#10;" />
     </histories>
     <option name="languageScores">
       <map>
