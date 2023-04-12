@@ -2,9 +2,18 @@
   <component name="GraziConfig">
     <option name="enabledLanguages">
       <set>
-        <option value="Japanese" />
         <option value="English (US)" />
+        <option value="Japanese" />
       </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="Django settings" />
+          </set>
+        </option>
+      </SuppressingContext>
     </option>
     <option name="detectionContext">
       <State>
