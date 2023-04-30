@@ -1,6 +1,13 @@
 <application>
   <component name="AceConfig">
-    <option name="tagForegroundRGB" value="-16777216" />
-    <option name="tagBackgroundRGB" value="-6912" />
+    <option name="jumpEndModeColor">
+      <JBColor />
+    </option>
+    <option name="tagBackgroundColor">
+      <JBColor />
+    </option>
+    <option name="tagForegroundColor">
+      <JBColor />
+    </option>
   </component>
 </application>
