@@ -4,6 +4,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="jender" />
+      <item value="jend" />
       <item value="年収" />
       <item value="Hello Python World" />
       <item value="print" />
@@ -12,7 +14,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="2" />
-        <entry key="JAPANESE" value="1" />
+        <entry key="JAPANESE" value="2" />
       </map>
     </option>
   </component>
