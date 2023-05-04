@@ -1,7 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" host="192.1.1.2" id="9f196e78-7a58-43a3-bef3-91eb687caf0f" port="22" nameFormat="DESCRIPTIVE" username="willmanager" useOpenSSHConfig="true" />
-    </configs>
-  </component>
-</application>
