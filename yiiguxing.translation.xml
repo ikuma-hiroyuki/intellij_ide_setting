@@ -1,9 +1,10 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1680641397690" />
+    <option name="lastTrimTime" value="1683194188108" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="年収" />
       <item value="Hello Python World" />
       <item value="print" />
       <item value="翻訳" />
