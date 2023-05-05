@@ -3,7 +3,16 @@
     <option name="lastTrimTime" value="1683194188108" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogHeight" value="281" />
+    <option name="newTranslationDialogX" value="1256" />
+    <option name="newTranslationDialogY" value="705" />
     <histories>
+      <item value="判定" />
+      <item value="はんてい" />
+      <item value="運" />
+      <item value="運勢" />
+      <item value="幸運" />
+      <item value="こう" />
       <item value="jender" />
       <item value="jend" />
       <item value="年収" />
