@@ -7,6 +7,9 @@
     <option name="newTranslationDialogX" value="1256" />
     <option name="newTranslationDialogY" value="705" />
     <histories>
+      <item value="numeric" />
+      <item value="decimal" />
+      <item value="de" />
       <item value="判定" />
       <item value="はんてい" />
       <item value="運" />
@@ -23,7 +26,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="2" />
-        <entry key="JAPANESE" value="2" />
+        <entry key="JAPANESE" value="4" />
       </map>
     </option>
   </component>
