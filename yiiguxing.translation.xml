@@ -1,12 +1,14 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683665123647" />
+    <option name="lastTrimTime" value="1684179798537" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="281" />
     <option name="newTranslationDialogX" value="1256" />
     <option name="newTranslationDialogY" value="705" />
     <histories>
+      <item value="変数" />
+      <item value="へ" />
       <item value="割り算" />
       <item value="わりざん" />
       <item value="り" />
