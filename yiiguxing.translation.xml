@@ -1,12 +1,38 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683194188108" />
+    <option name="lastTrimTime" value="1684179798537" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="281" />
     <option name="newTranslationDialogX" value="1256" />
     <option name="newTranslationDialogY" value="705" />
     <histories>
+      <item value="倍数" />
+      <item value="は" />
+      <item value="二倍" />
+      <item value="変数" />
+      <item value="へ" />
+      <item value="割り算" />
+      <item value="わりざん" />
+      <item value="り" />
+      <item value="かけ算" />
+      <item value="単価&#10;個数" />
+      <item value="単価&#10;" />
+      <item value="単価" />
+      <item value="かい" />
+      <item value="お会計" />
+      <item value="籤" />
+      <item value="くじ" />
+      <item value="おつり" />
+      <item value="自動販売機" />
+      <item value="じと" />
+      <item value="じどうはん" />
+      <item value="define" />
+      <item value="difine" />
+      <item value="difin" />
+      <item value="numeric" />
+      <item value="decimal" />
+      <item value="de" />
       <item value="判定" />
       <item value="はんてい" />
       <item value="運" />
@@ -23,7 +49,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="2" />
-        <entry key="JAPANESE" value="2" />
+        <entry key="JAPANESE" value="5" />
       </map>
     </option>
   </component>
