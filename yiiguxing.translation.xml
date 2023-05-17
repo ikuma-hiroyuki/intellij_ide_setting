@@ -4,9 +4,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="281" />
+    <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="1256" />
     <option name="newTranslationDialogY" value="705" />
     <histories>
+      <item value="編集者" />
+      <item value="て" />
       <item value="倍数" />
       <item value="は" />
       <item value="二倍" />
