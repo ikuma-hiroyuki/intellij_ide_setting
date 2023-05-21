@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684179798537" />
+    <option name="lastTrimTime" value="1684696613359" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="281" />
@@ -8,6 +8,7 @@
     <option name="newTranslationDialogX" value="1256" />
     <option name="newTranslationDialogY" value="705" />
     <histories>
+      <item value="人口" />
       <item value="編集者" />
       <item value="て" />
       <item value="倍数" />
