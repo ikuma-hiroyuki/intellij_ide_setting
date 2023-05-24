@@ -8,6 +8,8 @@
     <option name="newTranslationDialogX" value="454" />
     <option name="newTranslationDialogY" value="377" />
     <histories>
+      <item value="shipped" />
+      <item value="shi" />
       <item value="出荷写真" />
       <item value="編集者" />
       <item value="て" />
@@ -53,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="2" />
-        <entry key="JAPANESE" value="5" />
+        <entry key="JAPANESE" value="6" />
       </map>
     </option>
   </component>
