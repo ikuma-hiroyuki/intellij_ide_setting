@@ -3,8 +3,20 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="1">
+        <list size="13">
           <item index="0" class="java.lang.String" itemvalue="environ" />
+          <item index="1" class="java.lang.String" itemvalue="venv" />
+          <item index="2" class="java.lang.String" itemvalue="my_module.py" />
+          <item index="3" class="java.lang.String" itemvalue="requirements.txt" />
+          <item index="4" class="java.lang.String" itemvalue="hi.sh" />
+          <item index="5" class="java.lang.String" itemvalue="basic.py" />
+          <item index="6" class="java.lang.String" itemvalue="hello" />
+          <item index="7" class="java.lang.String" itemvalue="hi.py" />
+          <item index="8" class="java.lang.String" itemvalue="certifi" />
+          <item index="9" class="java.lang.String" itemvalue="charset-normalizer" />
+          <item index="10" class="java.lang.String" itemvalue="requests" />
+          <item index="11" class="java.lang.String" itemvalue="urllib3" />
+          <item index="12" class="java.lang.String" itemvalue="idna" />
         </list>
       </value>
     </option>
