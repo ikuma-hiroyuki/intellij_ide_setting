@@ -1,14 +1,10 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685521877717" />
+    <option name="lastTrimTime" value="1685693210375" />
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="3日間天気" />
-      <item value="3日間転記" />
-      <item value="みっかかんてきん" />
-      <item value="三日先の転記" />
-      <item value="みっかさきの" />
+      <item value="Create a dictionary where the keys are production numbers and the values are bundled photos" />
     </histories>
     <option name="languageScores">
       <map>
