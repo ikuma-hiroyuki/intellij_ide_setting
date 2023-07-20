@@ -1,13 +1,16 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688587690676" />
+    <option name="lastTrimTime" value="1689885979253" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogHeight" value="281" />
-    <option name="newTranslationDialogWidth" value="656" />
+    <option name="newTranslationDialogHeight" value="400" />
+    <option name="newTranslationDialogWidth" value="900" />
     <option name="newTranslationDialogX" value="1256" />
     <option name="newTranslationDialogY" value="705" />
     <histories>
+      <item value="教科" />
+      <item value="き" />
+      <item value="強化" />
       <item value="正答率" />
       <item value="両替元" />
       <item value="元通貨" />
@@ -55,9 +58,6 @@
       <item value="decimal" />
       <item value="de" />
       <item value="判定" />
-      <item value="はんてい" />
-      <item value="運" />
-      <item value="運勢" />
     </histories>
     <option name="languageScores">
       <map>
