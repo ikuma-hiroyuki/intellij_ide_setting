@@ -8,6 +8,11 @@
     <option name="newTranslationDialogX" value="1256" />
     <option name="newTranslationDialogY" value="705" />
     <histories>
+      <item value="gptに役割を与える" />
+      <item value="g役割を与える" />
+      <item value="役割を与える" />
+      <item value="やくわりを" />
+      <item value="与える" />
       <item value="Return True if the string is a digit string, False otherwise. A string is a digit string if all characters in the string are digits and there is at least one character in the string." />
       <item value="Return True if the string is a decimal string, False otherwise. A string is a decimal string if all characters in the string are decimal and there is at least one character in the string." />
       <item value="Sort the list in ascending order and return None. The sort is in-place (i.e. the list itself is modified) and stable (i.e. the order of two equal elements is maintained). If a key function is given, apply it once to each list item and sort them, ascending or descending, according to their function values. The reverse flag can be set to sort in descending order." />
@@ -53,11 +58,6 @@
       <item value="お会計" />
       <item value="籤" />
       <item value="くじ" />
-      <item value="おつり" />
-      <item value="自動販売機" />
-      <item value="じと" />
-      <item value="じどうはん" />
-      <item value="define" />
     </histories>
     <option name="languageScores">
       <map>
