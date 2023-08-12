@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691439165463" />
+    <option name="lastTrimTime" value="1691877081693" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="400" />
@@ -8,6 +8,13 @@
     <option name="newTranslationDialogX" value="1256" />
     <option name="newTranslationDialogY" value="705" />
     <histories>
+      <item value="生成" />
+      <item value="取得" />
+      <item value="get initial prompt" />
+      <item value="choosen" />
+      <item value="モデルを選択させる" />
+      <item value="もでるを" />
+      <item value="モデル名でソートする" />
       <item value="choice model" />
       <item value="gptに役割を与える" />
       <item value="g役割を与える" />
@@ -51,18 +58,11 @@
       <item value="割り算" />
       <item value="わりざん" />
       <item value="り" />
-      <item value="かけ算" />
-      <item value="単価&#10;個数" />
-      <item value="単価&#10;" />
-      <item value="単価" />
-      <item value="かい" />
-      <item value="お会計" />
-      <item value="籤" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="9" />
-        <entry key="JAPANESE" value="10" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="JAPANESE" value="12" />
       </map>
     </option>
   </component>
