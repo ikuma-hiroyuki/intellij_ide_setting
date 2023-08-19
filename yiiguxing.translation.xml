@@ -8,6 +8,7 @@
     <option name="newTranslationDialogX" value="1256" />
     <option name="newTranslationDialogY" value="705" />
     <histories>
+      <item value="can only concatenate str (not &quot;int&quot;) to str" />
       <item value="ambiguous variable name 'l'" />
       <item value="開発" />
       <item value="生成" />
@@ -57,11 +58,10 @@
       <item value="二倍" />
       <item value="変数" />
       <item value="へ" />
-      <item value="割り算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="12" />
+        <entry key="ENGLISH" value="13" />
         <entry key="JAPANESE" value="13" />
       </map>
     </option>
