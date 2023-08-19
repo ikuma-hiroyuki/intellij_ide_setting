@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691877081693" />
+    <option name="lastTrimTime" value="1692474943614" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="400" />
@@ -8,6 +8,7 @@
     <option name="newTranslationDialogX" value="1256" />
     <option name="newTranslationDialogY" value="705" />
     <histories>
+      <item value="ambiguous variable name 'l'" />
       <item value="開発" />
       <item value="生成" />
       <item value="取得" />
@@ -57,12 +58,11 @@
       <item value="変数" />
       <item value="へ" />
       <item value="割り算" />
-      <item value="わりざん" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="12" />
-        <entry key="JAPANESE" value="12" />
+        <entry key="JAPANESE" value="13" />
       </map>
     </option>
   </component>
