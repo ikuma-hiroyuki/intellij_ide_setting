@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692474943614" />
+    <option name="lastTrimTime" value="1693427166186" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="400" />
@@ -8,6 +8,8 @@
     <option name="newTranslationDialogX" value="1256" />
     <option name="newTranslationDialogY" value="705" />
     <histories>
+      <item value="TypeError: greet() got an unexpected keyword argument 'age'" />
+      <item value="定義" />
       <item value="can only concatenate str (not &quot;int&quot;) to str" />
       <item value="ambiguous variable name 'l'" />
       <item value="開発" />
@@ -56,12 +58,10 @@
       <item value="倍数" />
       <item value="は" />
       <item value="二倍" />
-      <item value="変数" />
-      <item value="へ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="13" />
+        <entry key="ENGLISH" value="14" />
         <entry key="JAPANESE" value="13" />
       </map>
     </option>
