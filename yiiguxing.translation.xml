@@ -8,6 +8,7 @@
     <option name="newTranslationDialogX" value="1256" />
     <option name="newTranslationDialogY" value="705" />
     <histories>
+      <item value="initial user prompt" />
       <item value="TypeError: greet() got an unexpected keyword argument 'age'" />
       <item value="定義" />
       <item value="can only concatenate str (not &quot;int&quot;) to str" />
@@ -57,12 +58,11 @@
       <item value="て" />
       <item value="倍数" />
       <item value="は" />
-      <item value="二倍" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="14" />
-        <entry key="JAPANESE" value="13" />
+        <entry key="ENGLISH" value="15" />
+        <entry key="JAPANESE" value="14" />
       </map>
     </option>
   </component>
