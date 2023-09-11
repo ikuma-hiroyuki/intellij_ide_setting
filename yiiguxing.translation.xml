@@ -1,13 +1,14 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1694029111187" />
+    <option name="lastTrimTime" value="1694463984085" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="520" />
     <option name="newTranslationDialogWidth" value="1040" />
-    <option name="newTranslationDialogX" value="1256" />
-    <option name="newTranslationDialogY" value="705" />
+    <option name="newTranslationDialogX" value="1096" />
+    <option name="newTranslationDialogY" value="925" />
     <histories>
+      <item value="調整基準" />
       <item value="調整" />
       <item value="initial user prompt" />
       <item value="TypeError: greet() got an unexpected keyword argument 'age'" />
@@ -57,7 +58,6 @@
       <item value="人口" />
       <item value="編集者" />
       <item value="て" />
-      <item value="倍数" />
     </histories>
     <option name="languageScores">
       <map>
