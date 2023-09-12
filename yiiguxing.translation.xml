@@ -8,6 +8,11 @@
     <option name="newTranslationDialogX" value="1096" />
     <option name="newTranslationDialogY" value="925" />
     <histories>
+      <item value="書き込み開始行" />
+      <item value="かいき" />
+      <item value="start write row" />
+      <item value="start r" />
+      <item value="write start row" />
       <item value="調整基準" />
       <item value="調整" />
       <item value="initial user prompt" />
@@ -53,16 +58,11 @@
       <item value="mean" />
       <item value="n" />
       <item value="正規表現" />
-      <item value="cause" />
-      <item value="鳴く" />
-      <item value="人口" />
-      <item value="編集者" />
-      <item value="て" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="15" />
-        <entry key="JAPANESE" value="14" />
+        <entry key="ENGLISH" value="17" />
+        <entry key="JAPANESE" value="16" />
       </map>
     </option>
   </component>
