@@ -8,6 +8,7 @@
     <option name="newTranslationDialogX" value="1096" />
     <option name="newTranslationDialogY" value="925" />
     <histories>
+      <item value="nboundLocalError: cannot access local variable 'gpt_model_list' where it is not associated with a value" />
       <item value="書き込み開始行" />
       <item value="かいき" />
       <item value="start write row" />
@@ -57,12 +58,11 @@
       <item value="stdev" />
       <item value="mean" />
       <item value="n" />
-      <item value="正規表現" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="17" />
-        <entry key="JAPANESE" value="16" />
+        <entry key="ENGLISH" value="19" />
+        <entry key="JAPANESE" value="18" />
       </map>
     </option>
   </component>
