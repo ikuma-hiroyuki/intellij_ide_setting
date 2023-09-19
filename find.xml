@@ -3,10 +3,9 @@
     <option name="customScope" value="すべての場所" />
     <option name="defaultScopeName" value="すべての場所" />
     <option name="preserveCase" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="すべての場所" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
