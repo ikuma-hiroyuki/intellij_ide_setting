@@ -8,6 +8,7 @@
     <option name="newTranslationDialogX" value="400" />
     <option name="newTranslationDialogY" value="350" />
     <histories>
+      <item value="TypeError: 'tuple' object does not support item assignment" />
       <item value="地方" />
       <item value="nboundLocalError: cannot access local variable 'gpt_model_list' where it is not associated with a value" />
       <item value="書き込み開始行" />
@@ -57,12 +58,11 @@
       <item value="標準偏差" />
       <item value="ひょう" />
       <item value="stdev" />
-      <item value="mean" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="19" />
-        <entry key="JAPANESE" value="18" />
+        <entry key="ENGLISH" value="21" />
+        <entry key="JAPANESE" value="20" />
       </map>
     </option>
   </component>
