@@ -1,71 +1,68 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1695100060771" />
+    <option name="lastTrimTime" value="1694463984085" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="594" />
-    <option name="newTranslationDialogX" value="435" />
-    <option name="newTranslationDialogY" value="454" />
-    <option name="pinTranslationDialog" value="true" />
+    <option name="newTranslationDialogHeight" value="520" />
+    <option name="newTranslationDialogWidth" value="1040" />
+    <option name="newTranslationDialogX" value="1096" />
+    <option name="newTranslationDialogY" value="925" />
     <histories>
-      <item value="bobs math" />
-      <item value="efficiency" />
-      <item value="撮影時間" />
-      <item value="撮影時間゜" />
-      <item value="さつ" />
-      <item value="ろくが" />
-      <item value="再生時間" />
-      <item value="動画時間" />
-      <item value="Efficiency" />
-      <item value="duration" />
-      <item value="aritcle" />
-      <item value="未満" />
-      <item value="山羊座" />
-      <item value="魚座" />
-      <item value="sagittarius" />
-      <item value="射手座" />
-      <item value="expected dict" />
-      <item value="luxuary" />
-      <item value="metavar" />
-      <item value="国税庁登録名" />
-      <item value="取り出し" />
-      <item value="解析" />
-      <item value="かいせ" />
-      <item value="prefecture Name" />
-      <item value="retrieve" />
-      <item value="target corporations" />
-      <item value="target corporates" />
-      <item value="登録番号" />
-      <item value="return_10_registration numbers" />
-      <item value="10件ずつ登録番号を返す" />
-      <item value="10件ずつ" />
-      <item value="10件づつ《「ずつ」が本則》" />
-      <item value="10" />
-      <item value="create target corporate dict" />
-      <item value="Hook method for setting up the test fixture before exercising it." />
-      <item value="1以外" />
-      <item value="1" />
-      <item value="書式設定" />
-      <item value="しょ" />
-      <item value="dialog user request" />
-      <item value="_dialog user request" />
-      <item value="completion" />
-      <item value="要約" />
-      <item value="content" />
-      <item value="A tuple containing the converted date in PST (YYYY-MM-DD) and the converted time in PST (HH:MM)." />
-      <item value="A datetime object representing the time in JST." />
-      <item value="Converts a given datetime object from JST (Japan Standard Time) to PST (Pacific Standard Time)." />
-      <item value="更新" />
-      <item value="login" />
-      <item value="lo" />
+      <item value="nboundLocalError: cannot access local variable 'gpt_model_list' where it is not associated with a value" />
+      <item value="書き込み開始行" />
+      <item value="かいき" />
+      <item value="start write row" />
+      <item value="start r" />
+      <item value="write start row" />
+      <item value="調整基準" />
+      <item value="調整" />
+      <item value="initial user prompt" />
+      <item value="TypeError: greet() got an unexpected keyword argument 'age'" />
+      <item value="定義" />
+      <item value="can only concatenate str (not &quot;int&quot;) to str" />
+      <item value="ambiguous variable name 'l'" />
+      <item value="開発" />
+      <item value="生成" />
+      <item value="取得" />
+      <item value="get initial prompt" />
+      <item value="choosen" />
+      <item value="モデルを選択させる" />
+      <item value="もでるを" />
+      <item value="モデル名でソートする" />
+      <item value="choice model" />
+      <item value="gptに役割を与える" />
+      <item value="g役割を与える" />
+      <item value="役割を与える" />
+      <item value="やくわりを" />
+      <item value="与える" />
+      <item value="Return True if the string is a digit string, False otherwise. A string is a digit string if all characters in the string are digits and there is at least one character in the string." />
+      <item value="Return True if the string is a decimal string, False otherwise. A string is a decimal string if all characters in the string are decimal and there is at least one character in the string." />
+      <item value="Sort the list in ascending order and return None. The sort is in-place (i.e. the list itself is modified) and stable (i.e. the order of two equal elements is maintained). If a key function is given, apply it once to each list item and sort them, ascending or descending, according to their function values. The reverse flag can be set to sort in descending order." />
+      <item value="応答" />
+      <item value="おうと" />
+      <item value="やりとり" />
+      <item value="教科" />
+      <item value="き" />
+      <item value="強化" />
+      <item value="正答率" />
+      <item value="両替元" />
+      <item value="元通貨" />
+      <item value="unrecognized" />
+      <item value="unrecog" />
+      <item value="unreco" />
+      <item value="unre" />
+      <item value="un" />
+      <item value="exists" />
+      <item value="標準偏差" />
+      <item value="ひょう" />
+      <item value="stdev" />
+      <item value="mean" />
+      <item value="n" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="54" />
-        <entry key="HINDI" value="1" />
-        <entry key="JAPANESE" value="53" />
+        <entry key="ENGLISH" value="19" />
+        <entry key="JAPANESE" value="18" />
       </map>
     </option>
   </component>

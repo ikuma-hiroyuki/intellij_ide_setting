@@ -15,11 +15,4 @@
       </map>
     </option>
   </component>
-  <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="SQL.sql.join.cardinality.hints.full.join" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-  </component>
 </application>
