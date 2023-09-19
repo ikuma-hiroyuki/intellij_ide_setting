@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693374671802" />
+    <option name="lastTrimTime" value="1695100060771" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
@@ -9,6 +9,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="bobs math" />
       <item value="efficiency" />
       <item value="撮影時間" />
       <item value="撮影時間゜" />
@@ -58,14 +59,13 @@
       <item value="更新" />
       <item value="login" />
       <item value="lo" />
-      <item value="発行" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="HINDI" value="1" />
-        <entry key="JAPANESE" value="52" />
+        <entry key="JAPANESE" value="53" />
       </map>
     </option>
   </component>
